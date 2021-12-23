@@ -1,4 +1,3 @@
 # Calculator_100%Mac'sCopy
-and even better in action animations 
-evrything works fine 
-if you shall notice errors - please let me know 
+And even better in action animations,everything works fine.
+If you shall notice errors - please let me know 
