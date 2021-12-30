@@ -22,7 +22,7 @@
 /* Begin PBXFileReference section */
 		848611FF2772834500AABCEA /* SuperFunc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperFunc.swift; sourceTree = "<group>"; };
 		8489E08A2773994500E0FF00 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
-		84DD55612772260400F81657 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84DD55612772260400F81657 /* Calc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calc.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84DD55642772260400F81657 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84DD55662772260400F81657 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		84DD55682772260400F81657 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -67,7 +67,7 @@
 		84DD55622772260400F81657 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				84DD55612772260400F81657 /* Calculator.app */,
+				84DD55612772260400F81657 /* Calc.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -90,9 +90,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		84DD55602772260400F81657 /* Calculator */ = {
+		84DD55602772260400F81657 /* Calc */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 84DD55782772260600F81657 /* Build configuration list for PBXNativeTarget "Calculator" */;
+			buildConfigurationList = 84DD55782772260600F81657 /* Build configuration list for PBXNativeTarget "Calc" */;
 			buildPhases = (
 				84DD555D2772260400F81657 /* Sources */,
 				84DD555E2772260400F81657 /* Frameworks */,
@@ -102,9 +102,9 @@
 			);
 			dependencies = (
 			);
-			name = Calculator;
+			name = Calc;
 			productName = Calculator;
-			productReference = 84DD55612772260400F81657 /* Calculator.app */;
+			productReference = 84DD55612772260400F81657 /* Calc.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -122,7 +122,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 84DD555C2772260400F81657 /* Build configuration list for PBXProject "Calculator" */;
+			buildConfigurationList = 84DD555C2772260400F81657 /* Build configuration list for PBXProject "Calc" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -135,7 +135,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				84DD55602772260400F81657 /* Calculator */,
+				84DD55602772260400F81657 /* Calc */,
 			);
 		};
 /* End PBXProject section */
@@ -365,7 +365,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		84DD555C2772260400F81657 /* Build configuration list for PBXProject "Calculator" */ = {
+		84DD555C2772260400F81657 /* Build configuration list for PBXProject "Calc" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				84DD55762772260600F81657 /* Debug */,
@@ -374,7 +374,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		84DD55782772260600F81657 /* Build configuration list for PBXNativeTarget "Calculator" */ = {
+		84DD55782772260600F81657 /* Build configuration list for PBXNativeTarget "Calc" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				84DD55792772260600F81657 /* Debug */,
