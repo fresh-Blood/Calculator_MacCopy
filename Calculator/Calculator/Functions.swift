@@ -7,7 +7,7 @@ import Foundation
 
 extension ViewController {
     
-    // MARK: задаем методы операций и нажатий на кнопки:
+    // MARK: functions for calc's operations & buttons pressings
     func numberSet(number: String) {
         if operation == "0" {
             operation = number

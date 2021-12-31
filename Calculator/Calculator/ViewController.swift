@@ -2,7 +2,7 @@ import UIKit
 
 final class ViewController: UIViewController {
     
-    // MARK: убираем повторы символов
+    // MARK: kicking repeated symbols if user'll try 
     var temp = ""
     var operation = "0" {
         didSet {
