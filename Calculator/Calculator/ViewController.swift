@@ -1,14 +1,8 @@
-//
-//  ViewController.swift
-//  Calculator
-//
-//  Created by Admin on 21.12.2021.
-//
-
 import UIKit
 
 final class ViewController: UIViewController {
     
+    // MARK: убираем повторы символов
     var temp = ""
     var operation = "0" {
         didSet {

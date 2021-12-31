@@ -2,7 +2,7 @@ import Foundation
 import UIKit
 
 
-
+// MARK: задаем политику обработки нажатий по каждой кнопке 
 
 extension ViewController {
     
