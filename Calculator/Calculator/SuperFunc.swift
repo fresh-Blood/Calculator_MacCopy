@@ -1,7 +1,6 @@
 import Foundation
 
 
-
 extension ViewController {
     func superFunc() {
         acSetTapPolitics()

@@ -1,9 +1,7 @@
 import Foundation
 import UIKit
 
-
-// MARK: gesture politics for each button 
-
+// MARK: gesture politics for each button
 extension ViewController {
     
     func acSetTapPolitics() {

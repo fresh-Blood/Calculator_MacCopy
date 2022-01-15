@@ -1,10 +1,5 @@
 import Foundation
 
-
-
-
-
-
 extension ViewController {
     
     // MARK: functions for calc's operations & buttons pressings
